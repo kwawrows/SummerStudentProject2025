@@ -10,3 +10,9 @@ The ProtoDUNE-HD detector comprises a 8.5 x 7.9 x 8.5 m^3 cryostat. The cryostat
 The PDHD detector includes four APAs arranged in two rows on either side of the beamline, creating four LArTPC drift volumes. Each APA has four wire planes on both sides, totaling 2,560 active channels: one collection plane with 960 vertical wires per side, and two induction planes with 800 angled wires per plane that wrap around both sides of the APA.
 In line with the usual DUNE convention, the coordinate system is defined in such a way that the z-axis is alinged with the beam direction, x-axis is algined with the drift direciton, and y-axis is aligned with the vertical (upwards) direction. 
 ![](https://codimd.web.cern.ch/uploads/upload_5faaf22a2f9a20d107d5f5c9413d07d1.png)
+
+## Data 
+You can find the data to be used in the analysis here: 
+[](https://cernbox.cern.ch/files/spaces/eos/user/k/kwawrows/data?items-per-page=100&view-mode=resource-table&tiles-size=1)
+
+The GitHub page contains an example Notebook which shows you how to load and process the data. Note that you can use whatever data analysis approach you're most comfortable with (whether it is ROOT, python, jupyter etc.), just remember to try and keep track of your progress (you can start by forking this repo!).
