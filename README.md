@@ -5,7 +5,10 @@
 
 ## Detector Geometry 
 
-![](https://codimd.web.cern.ch/uploads/upload_0ad66029199223ed14e4c7e3db8e061f.png)
+
+
+![](https://codimd.web.cern.ch/uploads/upload_cf9469d2bffeb5ed1c14a70cc078f8a2.png)
+
 
 
 
