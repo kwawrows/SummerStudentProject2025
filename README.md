@@ -52,6 +52,6 @@ The above information should be sufficient to summarise the location and signal 
 
 
 ## Getting the data 
-You can find the data to be used in the analysis here: [CERNBOX](https://cernbox.cern.ch/files/spaces/eos/user/k/kwawrows/data?items-per-page=100&view-mode=resource-table&tiles-size=1)
+You can find the data to be used in the analysis here: [CERNBOX](https://cernbox.cern.ch/s/xw84O3lx5RUKprD) 
 
 The GitHub page contains an example Notebook which shows you how to load and process the data. Note that you can use whatever data analysis approach you're most comfortable with (whether it is ROOT, python, jupyter etc.), just remember to try and keep track of your progress (you can start by forking this repo!).
