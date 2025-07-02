@@ -5,13 +5,9 @@
 
 ## Detector Geometry 
 
-<<<<<<< HEAD
 ![](https://codimd.web.cern.ch/uploads/upload_0ad66029199223ed14e4c7e3db8e061f.png)
 
 
-=======
-<img src="https://codimd.web.cern.ch/uploads/upload_4f9979593e3707de86eaf3055ce295a1.png" width="750" height="550" />
->>>>>>> d986689d4883c02b499aa4be6f031ab6591385f8
 
 The ProtoDUNE-HD detector comprises a 8.5 x 7.9 x 8.5 m^3 cryostat. The cryostat is spanned by alternating arrays of high-voltage cathode and low-voltage anode planes, where each anode-cathode pair defines a single LArTPC drift volume (with a drift length of 3.6 m.). The detector volume is filled with liquid argon, which serves as the active target medium for particle interactions. 
 The PDHD detector includes four APAs arranged in two rows on either side of the beamline, creating four LArTPC drift volumes. Each APA has four wire planes on both sides, totaling 2,560 active channels: one collection plane with 960 vertical wires per side, and two induction planes with 800 angled wires per plane that wrap around both sides of the APA.
